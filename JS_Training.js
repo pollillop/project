@@ -1,3 +1,3 @@
 //JS_Training
 
-console.log('qwerty!!');
+console.log('qwerty!!!!');
